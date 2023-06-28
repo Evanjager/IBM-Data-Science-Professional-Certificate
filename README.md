@@ -17,6 +17,25 @@ This Professional Certificate has a strong emphasis on applied learning. The cou
 ---
 ## 🏅 Professional Certificate
 ---
+## 📗 Courses 
+There are a total of 10 courses included in this Professional Certificate Specialization. The courses are as follows:  
+
+- [ ] [__What is Data Science__]()
+
+Explore the exciting world of data science, gain insights from professionals, and learn skills like machine learning and deep learning to embark on a thriving career in this in-demand field. Perfect for beginners, this course delves into real-life applications, enabling you to understand the importance of data science in today's data-driven world.
+
+- [ ] [__Tools for Data Science__]()
+
+Explore essential data science tools such as Python, R, Jupyter Notebooks, and GitHub, and develop proficiency in creating, managing, and sharing data-driven projects. Ideal for beginners eager to gain hands-on experience with popular libraries, APIs, datasets, and machine learning models.
+
+- [ ] [__Data Science Methodology__]()
+
+Discover the essential data science methodology used by professionals to solve real-world problems, and learn to apply the six stages of the CRISP-DM methodology for data analysis with Python. Transform into a data-driven thinker and gain hands-on experience with Jupyter Notebooks.
+
+- [x] [__Python for Data Science, AI & Development__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/blob/main/Certificates/Python%20for%20Data%20Science%2C%20AI%20Development)
+
+Explore the world of Python programming as you learn data structures, manipulation techniques, and integrate popular libraries like Pandas, Numpy, and Beautiful Soup. Build practical skills while collecting, handling, and analyzing data from web sources and utilizing essential APIs.
+
 
 
 
