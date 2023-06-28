@@ -36,6 +36,9 @@ Discover the essential data science methodology used by professionals to solve r
 
 Explore the world of Python programming as you learn data structures, manipulation techniques, and integrate popular libraries like Pandas, Numpy, and Beautiful Soup. Build practical skills while collecting, handling, and analyzing data from web sources and utilizing essential APIs.
 
+<p align="center">
+    <img src="/Certificates/data analysis.png" width="60%" height="60%">
+</p>
 
 
 
