@@ -32,13 +32,45 @@ Explore essential data science tools such as Python, R, Jupyter Notebooks, and G
 
 Discover the essential data science methodology used by professionals to solve real-world problems, and learn to apply the six stages of the CRISP-DM methodology for data analysis with Python. Transform into a data-driven thinker and gain hands-on experience with Jupyter Notebooks.
 
-- [x] [__Python for Data Science, AI & Development__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/blob/main/Certificates/Python%20for%20Data%20Science%2C%20AI%20Development)
+- [x] [__Python for Data Science, AI & Development__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/blob/main/Certificates/Python%20for%20Data%20Science%2C%20AI%20Development.png)
 
 Explore the world of Python programming as you learn data structures, manipulation techniques, and integrate popular libraries like Pandas, Numpy, and Beautiful Soup. Build practical skills while collecting, handling, and analyzing data from web sources and utilizing essential APIs.
 
 <p align="center">
-    <img src="/Certificates/data analysis.png" width="60%" height="60%">
-</p>
+    <img src="/Certificates/Python for Data Science, AI Development.png" width="60%" height="60%">
 
+- [x] [__Python Projet for Data Science__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/blob/main/Certificates/python%20project%20for%20data%20science.png)
 
+Step into the shoes of a Data Scientist and enhance your Python skills while analyzing real-world data sets. Create an insightful dashboard using Pandas, Beautiful Soup, and Plotly within a Jupyter Notebook.
 
+<p align="center">
+    <img src="/Certificates/python%20project%20for%20data%20science.png" width="60%" height="60%">
+
+ - [x] [__Databases and SQL for Data Science with Python__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/blob/main/Certificates/sql.png)
+
+ Explore the world of databases and enhance your data analysis skills by learning SQL and Python, gaining hands-on experience with real-world datasets, and utilizing advanced techniques such as views, transactions, and joins. Ideal for beginners in data science or information technology fields.
+
+ <p align="center">
+    <img src="/Certificates/sql.png" width="60%" height="60%">
+
+ - [x] [__Data Analysis with Python__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/blob/main/Certificates/data%20analysis.png)
+
+ Enhance your data analysis skills with Python, learning techniques for data cleaning, preparation, and exploratory analysis using libraries like Pandas, Numpy, and Scipy. Build and evaluate regression models to make informed predictions and decisions.
+
+  <p align="center">
+    <img src="/Certificates/data%20analysis.png" width="60%" height="60%">
+
+ - [x] [__Data Visualization with Python__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/blob/main/Certificates/data%20visualization%20python.png)
+
+ Explore the art of data storytelling through Python by learning various visualization techniques, creating captivating charts and plots, and building interactive dashboards to convey insights effectively. Enhance your data analysis skills to impressively present complex data, suitable for intermediate-level learners.
+
+   <p align="center">
+    <img src="/Certificates/data%20visualization%20python.png" width="60%" height="60%">
+
+ - [ ] [__Machine Learning with Python__]()
+
+ Explore various Machine Learning algorithms and techniques using Python, while learning to effectively apply classification, regression, and clustering methods to real-world problems. Gain practical experience and enhance your Data Science or AI career with job-ready skills.
+
+  - [ ] [__Applied Data Science Capstone__]()
+ 
+ Embark on a realistic data science journey with this capstone course and demonstrate proficiency in skills like data collection, data wrangling, and developing machine learning models using Python. Tackle a real-world challenge with your data-driven insights to predict SpaceX Falcon 9 rocket landing success, and add this project to your growing portfolio.
