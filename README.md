@@ -27,16 +27,20 @@ Explore the exciting world of data science, gain insights from professionals, an
 <p align="center">
     <img src="/What is Data Science/what is data science.png" width="60%" height="60%">
 
-- [ ] [__Tools for Data Science__]()
+- [x] [__Tools for Data Science__]()
 
 Explore essential data science tools such as Python, R, Jupyter Notebooks, and GitHub, and develop proficiency in creating, managing, and sharing data-driven projects. Ideal for beginners eager to gain hands-on experience with popular libraries, APIs, datasets, and machine learning models.
 
+<p align="center">
+    <img src="/Tools for Data Science/tools.png" width="60%" height="60%">
+
 - [x] [__Data Science Methodology__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Science%20Methodology)
+
+
+Discover the essential data science methodology used by professionals to solve real-world problems, and learn to apply the six stages of the CRISP-DM methodology for data analysis with Python. Transform into a data-driven thinker and gain hands-on experience with Jupyter Notebooks.
 
 <p align="center">
     <img src="/Data Science Methodology/Data Science Methodology.png" width="60%" height="60%">
-
-Discover the essential data science methodology used by professionals to solve real-world problems, and learn to apply the six stages of the CRISP-DM methodology for data analysis with Python. Transform into a data-driven thinker and gain hands-on experience with Jupyter Notebooks.
 
 - [x] [__Python for Data Science, AI & Development__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/tree/main/Python%20for%20Data%20Science%2CAl%20Development)
 
