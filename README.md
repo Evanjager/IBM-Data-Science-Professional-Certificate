@@ -77,9 +77,12 @@ Step into the shoes of a Data Scientist and enhance your Python skills while ana
    <p align="center">
     <img src="/Data Visualization with Python/data%20visualization%20python.png" width="60%" height="60%">
 
- - [ ] [__Machine Learning with Python__]()
+ - [x] [__Machine Learning with Python__]()
 
  Explore various Machine Learning algorithms and techniques using Python, while learning to effectively apply classification, regression, and clustering methods to real-world problems. Gain practical experience and enhance your Data Science or AI career with job-ready skills.
+
+ <p align="center">
+    <img src="/Machine Learning with Python/machine learning.png" width="60%" height="60%">
 
   - [ ] [__Applied Data Science Capstone__]()
  
