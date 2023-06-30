@@ -77,7 +77,7 @@ Step into the shoes of a Data Scientist and enhance your Python skills while ana
    <p align="center">
     <img src="/Data Visualization with Python/data%20visualization%20python.png" width="60%" height="60%">
 
- - [x] [__Machine Learning with Python__]()
+ - [x] [__Machine Learning with Python__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/tree/main/Machine%20Learning%20with%20Python)
 
  Explore various Machine Learning algorithms and techniques using Python, while learning to effectively apply classification, regression, and clustering methods to real-world problems. Gain practical experience and enhance your Data Science or AI career with job-ready skills.
 
