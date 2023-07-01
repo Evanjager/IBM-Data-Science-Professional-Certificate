@@ -84,6 +84,6 @@ Step into the shoes of a Data Scientist and enhance your Python skills while ana
  <p align="center">
     <img src="/Machine Learning with Python/machine learning.png" width="60%" height="60%">
 
-  - [ ] [__Applied Data Science Capstone__]()
+  - [ ] [__Applied Data Science Capstone__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/tree/main/Capstone%20Project)
  
  Embark on a realistic data science journey with this capstone course and demonstrate proficiency in skills like data collection, data wrangling, and developing machine learning models using Python. Tackle a real-world challenge with your data-driven insights to predict SpaceX Falcon 9 rocket landing success, and add this project to your growing portfolio.
