@@ -17,8 +17,9 @@ This Professional Certificate has a strong emphasis on applied learning. The cou
 ---
 ## 🏅 Professional Certificate
 <p align="center">
-    <img src="/Certificate.png" width="60%" height="60%">
----
+    <img src="/Certificate.png" width="60%" height="60%">  
+
+---  
 ## 📗 Courses 
 There are a total of 10 courses included in this Professional Certificate Specialization. The courses are as follows:  
 
