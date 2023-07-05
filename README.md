@@ -16,6 +16,8 @@ This Professional Certificate has a strong emphasis on applied learning. The cou
 * Train and compare machine learning models to predict if a space launch can reuse the first stage of a rocket.
 ---
 ## 🏅 Professional Certificate
+<p align="center">
+    <img src="/Certificate.png" width="60%" height="60%">
 ---
 ## 📗 Courses 
 There are a total of 10 courses included in this Professional Certificate Specialization. The courses are as follows:  
@@ -84,6 +86,9 @@ Step into the shoes of a Data Scientist and enhance your Python skills while ana
  <p align="center">
     <img src="/Machine Learning with Python/machine learning.png" width="60%" height="60%">
 
-  - [ ] [__Applied Data Science Capstone__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/tree/main/Capstone%20Project)
+  - [x] [__Applied Data Science Capstone__](https://github.com/Evanjager/IBM-Data-Science-Professional-Certificate/tree/main/Capstone%20Project)
  
  Embark on a realistic data science journey with this capstone course and demonstrate proficiency in skills like data collection, data wrangling, and developing machine learning models using Python. Tackle a real-world challenge with your data-driven insights to predict SpaceX Falcon 9 rocket landing success, and add this project to your growing portfolio.
+
+ <p align="center">
+    <img src="/Capstone Project/capstone.png" width="60%" height="60%">
